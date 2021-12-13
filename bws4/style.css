@@ -1,0 +1,34 @@
+*{
+  font-family: Montserrat;
+  font-weight:bolder;
+}
+body{
+  background-color: #1c1c1c;
+}
+#hint{
+  position: absolute;
+  right: 20px;
+  bottom: 20px;
+  font-size: 40px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px white;
+  
+}
+.footer {  
+  position: fixed;  
+  left: 0px;  
+  bottom: 0px;  
+  right: 0px;   
+  width: 100%;  
+  background-color: #696969;  
+  color: white;  
+  text-align: center;  
+  } 
+.titulo{
+    color: white;
+    text-align: center;
+}
+h2{
+  color: white;
+    text-align: center;
+}

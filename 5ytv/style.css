@@ -1,0 +1,52 @@
+*{
+  font-family: Montserrat;
+  font-weight:bolder;
+}
+body{
+  background-color: #1c1c1c;
+}
+.nsei{
+  position:absolute;
+  left: 500px;
+  top: 120px;
+}
+#hint{
+  position: absolute;
+  right: 20px;
+  bottom: 20px;
+  font-size: 40px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px white;
+  
+}
+.texto1 {
+  position: absolute;
+  color: white;
+  left: 850px;
+  top: 600px;
+}
+.osnumeros{
+  color: #1c1c1c;
+}
+.btn{
+  width: 70px;
+  height: 50px;
+  left: 750px;
+  top: 650px;
+  position: relative;
+  width: fit-content;
+  border-radius: 10px;
+}
+.btn a{
+  font-size: 30px;
+}
+.footer {  
+  position: fixed;  
+  left: 0px;  
+  bottom: 0px;  
+  right: 0px;   
+  width: 100%;  
+  background-color: #696969;  
+  color: white;  
+  text-align: center;  
+  }

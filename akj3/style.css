@@ -1,0 +1,54 @@
+*{
+  font-family: Montserrat;
+  font-weight:bolder;
+}
+body{
+  background-color: #2F4F4F;
+}
+#hint{
+  position: absolute;
+  right: 20px;
+  bottom: 20px;
+  font-size: 40px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px white;
+  
+}
+.footer {  
+  position: fixed;  
+  left: 0px;  
+  bottom: 0px;  
+  right: 0px;   
+  width: 100%;  
+  background-color: gray;  
+  color: white;  
+  text-align: center;  
+  } 
+.btn{
+    width: 70px;
+    height: 50px;
+    top: 100px;
+    position: relative;
+    width: fit-content;
+    border-radius: 10px;
+    left: 600px;
+}
+.btn a{
+    font-size: 30px;
+}
+.serio{
+  width: 369px;
+  height: 412px;
+}
+.euagora{
+  top: 100px;
+  position: relative;
+  display: flex;
+  place-items: center;
+  justify-content: center;
+}
+.numeros{
+  color: white;
+  position: relative;
+  left: 100px;
+}
